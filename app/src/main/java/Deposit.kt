@@ -1,0 +1,1 @@
+data class Deposit(val amount: Double, val interestRate: Double)
